@@ -16,10 +16,10 @@
 
 🌟 **About Me**  
 - 💻 Cloud & Infrastructure Engineer I at Morgan Stanley  
-- 🚀 Working on Cortex integrations, observability, and Java Gradle-based exporters  
+- 🚀 Working on Cortex integrations, observability and Java Gradle-based exporters  
 - 📦 Experience with multi-cloud architectures and API automation using Spring Boot & Terraform  
 - 🧪 CI/CD, testing, and monitoring advocate (JUnit5, SonarQube, in-memory MongoDB)  
-- 📊 Passionate about systems design, clean code, and scalable infra  
+- 📊 Passionate about systems design, clean code and scalable infra  
 
 ---
 
@@ -79,7 +79,16 @@
 
 ---
 
-📬 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/hellogarima)  
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:higarima1@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)](https://github.com/theGarimaAgrawal)
+## 📬 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hellogarima" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:higarima1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/theGarimaAgrawal" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
