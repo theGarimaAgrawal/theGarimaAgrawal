@@ -6,13 +6,11 @@
 <h1 align="center">Hi, I'm Garima 👋</h1>
 <h4 align="center">A passionate Cloud and Infra Engineer from India.</h4>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/theGarimaAgrawal">
     <img src="https://komarev.com/ghpvc/?username=theGarimaAgrawal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
-
----
 
 **When I code, I rely on**
 
@@ -28,11 +26,23 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cortex-333366?style=flat&logo=prometheus&logoColor=white" alt="Cortex" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Watchtower-3B3B3B?style=flat&logo=docker&logoColor=white" alt="Watchtower" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
   &nbsp;&nbsp;
@@ -41,59 +51,61 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
----
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🌟 About Me</h3>
+      <ul>
+        <li>💻 Cloud & Infrastructure Engineer I at Morgan Stanley</li>
+        <li>🚀 Working on Cortex integrations, observability and Java Gradle-based exporters</li>
+        <li>📦 Experience with multi-cloud architectures and API automation using Spring Boot & Terraform</li>
+        <li>🧪 CI/CD, testing, and monitoring advocate (JUnit5, SonarQube, in-memory MongoDB)</li>
+        <li>📊 Passionate about systems design, clean code and scalable infra</li>
+      </ul>
+    </td>
+    <td align="center" width="300">
+      <img src="https://octodex.github.com/images/codercat.jpg" width="250px" alt="GitHub Cartoon" />
+    </td>
+  </tr>
+</table>
 
-🌟 **About Me**  
-- 💻 Cloud & Infrastructure Engineer I at Morgan Stanley  
-- 🚀 Working on Cortex integrations, observability and Java Gradle-based exporters  
-- 📦 Experience with multi-cloud architectures and API automation using Spring Boot & Terraform  
-- 🧪 CI/CD, testing, and monitoring advocate (JUnit5, SonarQube, in-memory MongoDB)  
-- 📊 Passionate about systems design, clean code and scalable infra  
+<h3>📚 Education</h3>
+🎓 B.Tech in Computer Science & Engineering — VIT, 2020–2024
 
----
-
-📚 **Education**  
-🎓 B.Tech in Computer Science & Engineering — VIT, 2020–2024  
-
+<h3>📈 Github Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=theGarimaAgrawal&theme=radical&show_icons=true" width="450px" />
 
----
+<h3>🚀 Projects</h3>
+<ul>
+  <li><strong>Watchtower Exporter for Cortex</strong> – Built Flatbuffer to Prometheus bridge using Java</li>
+  <li><strong>Auto-Proctored Quiz System</strong> – With AI-powered facial recognition and eye-tracking</li>
+  <li><strong>Mark Predictor</strong> – ML-driven student evaluator with Flask & Tableau</li>
+  <li><strong>Fashion Outfit Generator</strong> – Personalizer with Generative AI for e-commerce</li>
+</ul>
 
-🚀 **Projects**  
-- **Watchtower Exporter for Cortex** – Built Flatbuffer to Prometheus bridge using Java  
-- **Auto-Proctored Quiz System** – With AI-powered facial recognition and eye-tracking  
-- **Mark Predictor** – ML-driven student evaluator with Flask & Tableau  
-- **Fashion Outfit Generator** – Personalizer with Generative AI for e-commerce
-
----
-
-🏆 **Achievements**  
-- IEEE Paper Presenter @ ICICICT – *GestFanz: Human-Machine Fan Automation*  
-- 🌍 Delegate @ Harvard HPAIR 2022  
-- 🥇 Multiple Ideathon Wins (IEEE SSIT, Innovators Quest, CodeChef)  
-- 🌐 Top 5k Worldwide @ Google HashCode
-
----
-
-📝 **Blogs**  
-- [Getting Started with Spring Boot: A Mini Guide](https://medium.com/codex/getting-started-with-spring-boot-a-mini-guide-6b85ecefff5c)  
-- [Why are Java Spring Boot Annotations so Awesome?](https://medium.com/@higarima1/why-are-java-spring-boot-annotations-so-awesome-217c0c44b7d9)
-
----
-
-🎯 **Fun Facts**  
-- 🥋 District-Level Taekwondo Champion  
-- 🐘 Volunteer with Wildlife SOS  
-- 🏅 30+ awards in athletics and sports  
-- 🤹 Always eager to collaborate and learn something new!
-
----
+<h3>🏆 Achievements</h3>
+<ul>
+  <li>IEEE Paper Presenter @ ICICICT – <em>GestFanz: Human-Machine Fan Automation</em></li>
+  <li>🌍 Delegate @ Harvard HPAIR 2022</li>
+  <li>🥇 Multiple Ideathon Wins (IEEE SSIT, Innovators Quest, CodeChef)</li>
+  <li>🌐 Top 5k Worldwide @ Google HashCode</li>
+</ul>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGarimaAgrawal&layout=compact&theme=radical" width="340px" />
-
----
 
 ## 📬 Connect with me
 
