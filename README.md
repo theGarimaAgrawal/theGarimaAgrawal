@@ -12,9 +12,7 @@
   </a>
 </p>
 
-**When I code, I rely on**
-
-<h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Things I code with</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
   &nbsp;&nbsp;
@@ -107,7 +105,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGarimaAgrawal&layout=compact&theme=radical" width="340px" />
 
-## 📬 Connect with me
+## Want to Contact Me? 📬
 
 <p align="left">
   <a href="https://linkedin.com/in/hellogarima" target="_blank">
