@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SWX0oj1Fzc58Cp4uzp/giphy.gif" width="30%" />
+  <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Hello World GIF"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Garima Agrawal</h1>
+<h1 align="center">Hi, I'm Garima 👋</h1>
 <h4 align="center">Cloud and Infrastructure Engineer | Building Reliable Systems with Observability at Heart</h4>
 
 <p align="center">
